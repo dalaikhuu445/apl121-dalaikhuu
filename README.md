@@ -4,5 +4,13 @@
 
 ## Агуулга
 - `hello.c`: Долоо хоног 1 - "Hello, UFE" хэвлэх C програм.
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, UFE!\n");
+
+    return 0;
+}
 
     
